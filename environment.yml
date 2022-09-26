@@ -3,6 +3,6 @@ channels:
   - conda-forge
 
 dependencies:
-  - pycaret
   - python=3.8
   - scikit-learn=0.23.2
+  - pandas
